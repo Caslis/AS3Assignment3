@@ -47,7 +47,7 @@ import Amirul from "./assets/AMIRUL.jpg";
       <p
         class="mt-4 text-sm leading-6 col-start-1 sm:col-span-2 lg:mt-6 lg:row-start-4 lg:col-span-1 dark:text-slate-400"
       >
-        I am a student at the Politeknik Brunei, majoring in Computer Science. I am currently in my final year of study and am looking for opportunities to further my studies in the field of computer science.
+        I am a student at the Politeknik Brunei, majoring in Web Development.
     </p>
     </div>
   </main>
